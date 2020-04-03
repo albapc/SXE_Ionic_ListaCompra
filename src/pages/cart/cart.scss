@@ -1,3 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,700&display=swap');
+
 page-home {
 
+}
+
+ion-card-header {
+  background-color: #36474F;
+}
+
+ion-card-title {
+  font-family: 'Pacifico', cursive;
+}
+
+ion-title {
+  font-family: 'Montserrat', cursive;
+}
+
+#instrucciones {
+  font-family: 'Pacifico', cursive;
+}
+
+.comprado {
+  background-color: #04A699;
+  border-radius: 25px;
+}
+
+.no-comprado {
+  background-color: #FF5253;
+  border-radius: 25px;
+}
+
+#texto-instrucciones {
+  font-family: 'Comic Neue', cursive;
+  font-size: 24px;
+}
+
+.swiper-slide {
+  overflow-y: scroll;
+  display: block;
 }
