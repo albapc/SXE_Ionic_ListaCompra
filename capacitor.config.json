@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "lista-compra-ionic",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
